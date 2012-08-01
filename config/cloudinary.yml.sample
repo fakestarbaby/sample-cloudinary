@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: sample
+  api_key: '123456789012345'
+  api_secret: abcdefgh-ijklmnopqrstuvwxyz
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: sample
+  api_key: '123456789012345'
+  api_secret: abcdefgh-ijklmnopqrstuvwxyz
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: sample
+  api_key: '123456789012345'
+  api_secret: abcdefgh-ijklmnopqrstuvwxyz
+  enhance_image_tag: true
+  static_image_support: false

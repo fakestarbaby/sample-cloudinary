@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.7'
 
+gem 'carrierwave'
+gem 'cloudinary'
 gem 'jquery-rails'
 
 group :assets do
